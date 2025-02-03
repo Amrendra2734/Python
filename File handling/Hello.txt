@@ -1,0 +1,4 @@
+Hello  I am a first year Btech in Electrical and Electronics Engineering Student.
+My name is Amrendra Singh.
+I am currently learning file handling in python.
+My email is amrendraranchi.27@gmail.com
